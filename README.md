@@ -9,7 +9,7 @@ That's okay, I'll fix this problem.
 
 ### Here are some pictures of my program:
 
-1. When running, the main interface appears of course 🥲: 
+1. **When running, the main interface appears of course 🥲:**
     
     *   As you can see, I can view products, invoices, enter an invoice...
     
@@ -21,14 +21,14 @@ That's okay, I'll fix this problem.
 ***
 <br />
 
-2. Here I can add an invoice with simple details as shown:
+2. **Here I can add an invoice with simple details as shown:**
 
 <img src="image/order.jpg" alt="Orders Window" width="400px" style="margin-left: 60px;">
 
 ***
 <br />
 
-3. It asks me to enter the invoice details completely:
+3. **It asks me to enter the invoice details completely:**
 
     * If the product is not in the warehouse, it will ask me to enter it and then complete the process
     
@@ -39,21 +39,21 @@ That's okay, I'll fix this problem.
 ***
 <br />
 
-4. This is a great masterpiece 😉, you can view products, add new products and modify them like this...:
+4. **This is a great masterpiece 😉, you can view products, add new products and modify them like this...:**
 
 <img src="image/show order 2.jpg" alt="Show Order Window" width="600px" style="margin-left: 60px;">
 
 ***
 <br />
 
-5. Here you can view the details of the products and add or modify features and delete them of course 😁:
+5. **Here you can view the details of the products and add or modify features and delete them of course 😁:**
 
 <img src="image/show order 1.jpg" alt="Show Order Detials Window" width="600px" style="margin-left: 60px;">
 
 ***
 <br />
 
-6. Don't forget this interface, it's important:
+6. **Don't forget this interface, it's important:**
     *   Display products in a beautiful layout
     *   You can search easily
 
@@ -62,8 +62,8 @@ That's okay, I'll fix this problem.
 ***
 <br />
 
-7. Finally you can see order details and search also 😊:
+7. **Finally you can see order details and search also 😊:**
 
-<img src="image/products 2.jpg" alt="Products Window" width="400px" style="margin-left: 60px;">
+<img src="image/products 2.jpg" alt="Products Window"  width="400px" style="margin-left: 60px;"/>
 
 <br />
